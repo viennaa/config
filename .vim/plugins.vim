@@ -1,0 +1,13 @@
+call plug#begin('~/.vim/plugged')
+Plug 'junegunn/fzf'
+Plug 'junegunn/fzf.vim'
+Plug 'scrooloose/nerdtree'
+Plug 'preservim/nerdcommenter'
+Plug 'roblillack/vim-bufferlist'
+Plug 'majutsushi/tagbar'
+"Plug 'kevinw/pyflakes-vim'
+"Plug 'vim-syntastic/syntastic'
+Plug 'nvie/vim-flake8'
+Plug 'dense-analysis/ale'
+Plug 'Yggdroot/indentLine'
+call plug#end()

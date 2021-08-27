@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/d066607/.vim'
+let g:netrw_dirhist_0='/Users/d066607/.vim/plugged'
+let g:netrw_dirhist_9='/Users/d066607/.vim/plugged/pyflakes-vim'
+let g:netrw_dirhist_8='/Users/d066607/.vim/plugged'
+let g:netrw_dirhist_7='/Users/d066607/.vim/plugged/fzf'
+let g:netrw_dirhist_6='/Users/d066607/.vim/plugged'
+let g:netrw_dirhist_5='/Users/d066607/.vim'
+let g:netrw_dirhist_4='/Users/d066607/.vim/plugged'
+let g:netrw_dirhist_3='/Users/d066607/.vim/plugged/nerdtree'
+let g:netrw_dirhist_2='/Users/d066607'
